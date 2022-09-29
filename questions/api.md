@@ -37,3 +37,22 @@
   Find the target on the shadows
   When you find the target, try to get the flag in the local house.
   Maybe it will help you [dirb/common.txt at master · v0re/dirb (github.com)](https://github.com/v0re/dirb/blob/master/wordlists/common.txt)" 
+  
+  
+## FLAG 7 - Não existem robôs nos mundos dos cowboys 
+>  Acreditando que ninguém conseguiria achar essa informação, um administrador do sistema construiu e deixou alguns arquivos de apoio para seu trabalho no diretório da aplicação. Encontre qual a senha padrão que ele utiliza quando cria um usuário no sistema disponibilizado http://my-admin-server.backend.emaserver.com 
+
+## FLAG 8 - Se estiver escondendo algo, é melhor não contar para ninguém
+> ​Descubra qual a o usuário que possui a senha "Lima@4422".
+
+## FLAG 9 - É impressão minha ou estou vendo uma bandeira?
+> Um atacante conseguiu coletar informações sensíveis. Para não chamar atenção das ferramentas de segurança, ele registrou a informação em uma imagem png em um diretório chamado “nao_suspeito”, dentro do servidor que está rodando a aplicação. Encontre a informação que ele registrou.
+
+## FLAG 10 - Para um duelo real, não precisa levar as armas de festim
+> O desenvolvimento não revisou quais serviços deveriam estar disponibilizados no ambiente de produção. Encontre a flag com informações que deveriam ser disponibilizadas somente para ambiente interno.
+
+## FLAG 11 - Ninguém mexe nas armas do líder da gangue
+> Assim como nas gangues, APIs devem ser acessíveis somente para pessoas com permissão.
+
+## FLAG 12 - Precisa-se do nome para montar o cartaz de procura-se
+> Descubra o bandido que é o braço direito do líder da gangue
